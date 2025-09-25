@@ -1,6 +1,6 @@
 <!-- Banner / Header Image (optional — add your own banner or illustration) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/chehakchopra/chehakchopra/banner.png" alt="Chehak Chopra — Developer & Learner" />
+  ![Chehak Chopra — Developer & Learner](https://raw.githubusercontent.com/chehakchopra/chehakchopra/main/banner.png)
 </p>
 
 ### Hi, I’m Chehak 👋  
