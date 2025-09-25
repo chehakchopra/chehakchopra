@@ -12,10 +12,9 @@
 ## 🧠 About Me
 
 - 💻 I enjoy working on full-stack projects and making contributions more approachable to everyone  
-- 🚀 Favorite stack: **JavaScript / TypeScript**, React, Node.js, GraphQL, APIs & serverless  
+- 🚀 Favorite stack: **JavaScriptt**, React, Node.js, SQL, APIs
 - 🌱 Always learning: exploring new frameworks, architectures, and scaling patterns  
-- ✍️ Occasionally write about what I learn (blogs, codepens, or GitHub posts)  
-- 🎮 When not coding, I enjoy gaming, tech podcasts, and tinkering with side projects
+- ✍️ Occasionally I like to Read Books
 
 ---
 
