@@ -1,6 +1,7 @@
 <!-- Banner / Header Image (optional — add your own banner or illustration) -->
 
   ![Chehak Chopra — Developer & Learner](https://raw.githubusercontent.com/chehakchopra/chehakchopra/main/banner.png)
+  
 
 ### Hi, I’m Chehak 👋  
 > **Computer Science student @ University of Guelph**  
