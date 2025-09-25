@@ -53,4 +53,4 @@
 ---
 
 ⭐️ If you find any of my projects useful, feel free to star them or open an issue to connect!  
-<sub>Built with 💜 by Chehak Chopra</sub>
+<sub>Made with 💜 by Chehak Chopra</sub>
