@@ -35,15 +35,6 @@
 
 ---
 
-### 🌍 Connect with Me
-
-[<img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](#)    
-[<img align="left" alt="Portfolio Website" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/internetexplorer.svg" />](#)  
-
-<br clear="left"/>
-
----
-
 <div align="center">
   ⭐️ Show some love by starring my [repositories](https://github.com/chehakchopra?tab=repositories)!  
 </div>
